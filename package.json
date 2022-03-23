@@ -46,7 +46,7 @@
   "dependencies": {
     "archiver": "^3.0.0",
     "bytes": "^3.0.0",
-    "concat-stream": "^1.6.0",
+    "concat-stream": "^1.6.2",
     "mkdirp": "^0.5.1",
     "yargs": "^11.0.0"
   }
