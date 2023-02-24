@@ -35,7 +35,7 @@
     "babel-eslint": "^8.2.2",
     "blue-tape": "^1.0.0",
     "chokidar-cli": "^1.2.0",
-    "nyc": "^11.4.1",
+    "nyc": "^15.1.0",
     "opener": "^1.4.3",
     "proxyquire": "^1.8.0",
     "snazzy": "^7.0.0",
